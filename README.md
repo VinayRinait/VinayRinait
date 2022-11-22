@@ -23,23 +23,23 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=mdali-11&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mdali-11&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdali-11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=VinayRinait&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VinayRinait&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayRinait&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-<a href="https://github.com/VinayRinait/github-readme-activity-graph"><img alt="vinay's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=mdali-11&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/VinayRinait/github-readme-activity-graph"><img alt="vinay's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=VinayRinait&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <p align="center">
 <a href="https://github.com/VinayRinait"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdali-11&theme=dracula" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VinayRinait&theme=dracula" />
 </span></a> </p>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=mdali-11&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=VinayRinait-11&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=mdali-11k&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=VinayRinaitk&icon=0&color=0)](https://visitcount.itsvg.in)
